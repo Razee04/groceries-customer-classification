@@ -1,0 +1,13 @@
+# Sembunyikan semua hal terkait Breast Cancer
+*BreastCancer*
+*breast-cancer*
+
+# Sembunyikan dataset pecahan train, test, val, dan submission
+train.csv
+test.csv
+val.csv
+sample_submission.csv
+
+# Folder sistem
+__pycache__/
+.ipynb_checkpoints/
